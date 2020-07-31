@@ -1,0 +1,10 @@
+cradle:
+  cabal:
+    - path: "./src"
+      component: "lib:optical-design"
+    - path: "./app"
+      component: "exe:optical-design"
+    - path: "./test"
+      component: "test:optical-design"
+    - path: "./benchmark"
+      component: "bench:optical-design"
