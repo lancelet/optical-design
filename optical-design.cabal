@@ -3,8 +3,8 @@ name:                optical-design
 version:             0.0.0.0
 synopsis:            See README for more info
 description:         See README for more info
-homepage:            https://github.com/merrijo/optical-design
-bug-reports:         https://github.com/merrijo/optical-design/issues
+homepage:            https://github.com/lancelet/optical-design
+bug-reports:         https://github.com/lancelet/optical-design/issues
 license:             MIT
 license-file:        LICENSE
 author:              Jonathan Merritt
@@ -18,7 +18,7 @@ tested-with:         GHC == 8.8.3
 
 source-repository head
   type:                git
-  location:            https://github.com/merrijo/optical-design.git
+  location:            https://github.com/lancelet/optical-design.git
 
 common common-options
   build-depends:       base ^>= 4.13.0.0
